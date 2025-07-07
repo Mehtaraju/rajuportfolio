@@ -102,7 +102,7 @@ export const projectsData = [
     tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
     imageUrl: AdvancedYoutubee,
     sourceCode:"https://github.com/Adarshkrtiwar/you_tube.git",
-    liveDemo:"https://github.com/Adarshkrtiwar"
+    liveDemo:"https://github.com/Mehtaraju"
   },
   {
     title: "FoodHub App",
@@ -110,8 +110,8 @@ export const projectsData = [
       "Food Hub App using React.js and Parcel Bundle",
     tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
     imageUrl: FoodVilla,
-    sourceCode:"https://github.com/Adarshkrtiwar",
-    liveDemo:"https://github.com/Adarshkrtiwar"
+    sourceCode:"https://github.com/Mehtaraju",
+    liveDemo:"https://github.com/Mehtaraju"
   },
   {
     title: "Kira Movie",
@@ -119,8 +119,8 @@ export const projectsData = [
       "Explore movies with ease using my React Movie Browsing Project! 🎬 Discover, click, watch – simple and snappy! 🚀🌟",
     tags: ["React", "Redux", "IMDB API", "Tailwind", "Framer"],
     imageUrl: KiraMovie,
-    sourceCode:"https://github.com/Adarshkrtiwar",
-    liveDemo:"https://github.com/Adarshkrtiwar"
+    sourceCode:"https://github.com/Mehtaraju",
+    liveDemo:"https://github.com/Mehtaraju"
   },
 ] as const;
 
