@@ -101,7 +101,7 @@ export const projectsData = [
       "Advanced Youtube App with live chat and infinite scroll feature for your viewing pleasure",
     tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
     imageUrl: AdvancedYoutubee,
-    sourceCode:"https://github.com/Adarshkrtiwar/you_tube.git",
+    sourceCode:"https://github.com/Mehtaraju",
     liveDemo:"https://github.com/Mehtaraju"
   },
   {
